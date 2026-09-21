@@ -1,0 +1,31 @@
+{
+    "Gems": 0,
+    "Gold": 0,
+    "Tickets": 0,
+    "Starpoints": 0,
+    "BrawlBoxTokens": 0,
+    "BigBoxTokens": 0,
+    "ExperiencePoints": 0,
+    "Trophies": 0,
+    "ShowPacketsInLog": false,
+    "ThemeID": 0,
+    "SupportedContentCreator": "",
+    "Maintenance": false,
+    "Patch": true,
+    "vips": [
+        2
+    ],
+    "CCC": [
+        "devills"
+    ],
+    "banID": [],
+    "buybp": [],
+    "ClubBlock": [],
+    "DelName": [],
+    "PatchUrl": "http://192.168.0.103:8080",
+    "UpdateUrl": "https://t.me/dssstudios",
+    "block": [],
+    "Skins": [],
+    "CO": [],
+    "VIPTG": []
+}
